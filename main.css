@@ -1,0 +1,32 @@
+body {
+    background-color: tan;
+    padding; 0;
+    margin:0;
+    border: 2px solid black;
+    height: 50px;
+}
+
+.container {
+    width:400px;
+    height: 400px;
+    margin:100px auto;
+    background:white;
+    position:relative;
+}
+
+.container h1 {
+    font-family: arial;
+    }
+
+.container-2{
+    background-color: blue;
+    width:400px;
+    height: 400px;
+    margin:100px auto;
+    top: 100px;
+}
+
+.block-level > h3 {
+    border: 2px solid 
+    
+    }
